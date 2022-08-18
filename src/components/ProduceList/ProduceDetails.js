@@ -1,3 +1,5 @@
+import React from 'react';
+
 function ProduceDetails({ produce }) {
   const cartItem = {};
 
